@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F410-08BD
+
+ Directory of C:\Users\Admin\Desktop\MygiProject
+
+2018-12-14  03:39 AM    <DIR>          .
+2018-12-14  03:39 AM    <DIR>          ..
+2018-12-14  03:39 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  39,823,429,632 bytes free
